@@ -1,0 +1,6 @@
+Jorge jorge45 ADMIN_PARADA 1
+Mateo Mateorge3 ADMIN_PARADA 2
+Jaime jaime567 ADMIN_GENERAL -3
+Raul raul654 PEREGRINO 1
+Rafel rafaelmejor PEREGRINO 2
+Martin marti007 PEREGRINO 3
